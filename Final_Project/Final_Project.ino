@@ -1,3 +1,5 @@
+#This program uses sensors to switch on or off lights when required
+
 int ir1;
 int ir2;
 int ir3;
